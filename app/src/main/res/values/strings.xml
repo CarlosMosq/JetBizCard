@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetBizCard</string>
+    <string name="title_activity_intro_to_compose">IntroToCompose</string>
+    <string name="title_activity_jet_tip_app">JetTipApp</string>
+</resources>
